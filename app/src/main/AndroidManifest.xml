@@ -4,6 +4,7 @@
     package="jp.techacademy.yoshitsugu.apiapp">
 
     <application
+        android:name=".ApiApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
