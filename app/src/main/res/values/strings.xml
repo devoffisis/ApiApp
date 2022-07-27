@@ -10,4 +10,9 @@
     <string name="api_keyword">ランチ</string>
     <string name="recycler_image_view">TODO</string>
     <string name="recycler_text_view">TODO</string>
+
+    <!-- Favorite関連 -->
+    <string name="delete_favorite_dialog_title">お気に入りの削除</string>
+    <string name="delete_favorite_dialog_message">お気に入りを削除しますか？</string>
+    <string name="empty_favorite">お気に入りはまだ登録されていません。</string>
 </resources>
